@@ -1,5 +1,5 @@
 # Idealist Installation
-* Download Idealist files put them in a directory. E.g. `/var/www/idealist`.
+* Download Idealist from this repository and put them in a directory. E.g. `/var/www/idealist`.
 * Rename the `config.ini-example` file to `config.ini`.
 * Open up the `config.ini` and configure your installation. You'll have to provide where your repositories are located and the base Idealist URL (in our case, http://localhost/idealist).
 * Create the cache folder and give read/write permissions to your web server user:
