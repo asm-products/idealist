@@ -1,4 +1,4 @@
-# Idealist
+# [Idealist](https://assembly.com/idealist)
 
 This is a **Work in Progress**.
 
@@ -16,6 +16,12 @@ Idealist is an [Assembly](http://assembly.com) Project.
 * Share your idea so others can **Fork** and suggest improvements.
 * Choose what improvemnts to accept. (i.e Merge Pull Requests)
 * Now you have an awesome idea!
+
+## What can you do?
+* Improve your product idea, by getting feedback from interested people.
+* Publish a best-reference article with help of the experts who want to contribute.
+* Start a social movement and let everyone define how its blueprint should be like.
+* Any idea you think worths spreading and improving...
 
 ## Whats so special?
 * Optimized for hackers!
