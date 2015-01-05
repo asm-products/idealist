@@ -3,9 +3,9 @@
 This is a **Work in Progress**.
 
 Social Idea Sharing and Document Collaboration.
+Idealist is a collaboration tool which helps your idea improve over time by the help of contributors.
 
-Idealist is a collaboration tool which helps your idea improve over time by the help of contributors. Idealist is an [Assembly](http://assembly.com) Project.
-
+Idealist is an [Assembly](http://assembly.com) Project.
 <a href="https://assembly.com/idealist/bounties">
 <img src="https://asm-badger.herokuapp.com/idealist/badges/tasks.svg" height="24px" alt="Open Tasks" />
 </a>
